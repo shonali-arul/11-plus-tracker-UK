@@ -84,7 +84,7 @@ const SCHOOLS = [
     category:'State Grammar (Girls)',
     gender:'Girls',
     region:'Hampstead Garden Suburb, Barnet',
-    website:'https://www.hbschool.org.uk',
+    website:'https://www.hbschool.org.uk/admissions/year-7/',
     note:'Two-round entrance test; only the top 300 from Round 1 are invited to Round 2. Registration for this cycle closed 1 July 2026 \u2014 the CAF deadline below is the next live action.',
     milestones:[
       {label:'Entrance test registration', date:'2026-07-01', actionable:true},
@@ -100,7 +100,7 @@ const SCHOOLS = [
     category:'Independent',
     gender:'Boys',
     region:'Elstree, Hertfordshire',
-    website:'https://www.habselstree.org.uk/boys/',
+    website:'https://www.habselstree.org.uk/boys/admissions/admissions-process/',
     note:'Shares its QUEST first-round assessment with Habs Girls. Scholarship applications use the same form and deadline as registration.',
     milestones:[
       {label:'Registration & scholarship deadline', date:'2026-11-06', actionable:true}
@@ -112,7 +112,7 @@ const SCHOOLS = [
     category:'State Grammar, super-selective (Boys)',
     gender:'Boys',
     region:'Chipping Barnet',
-    website:'https://www.qebarnet.co.uk',
+    website:'https://www.qebarnet.co.uk/admissions-information/admissions-information-parents/',
     note:'No catchment area \u2014 entry is by test score alone. Registration for this cycle closed at noon on 8 July 2026 \u2014 the CAF deadline below is the next live action.',
     milestones:[
       {label:'Entrance test request form deadline (noon)', date:'2026-07-08', actionable:true},
@@ -127,7 +127,7 @@ const SCHOOLS = [
     category:'Independent',
     gender:'Girls',
     region:'Elstree, Hertfordshire',
-    website:'https://www.habselstree.org.uk/girls/',
+    website:'https://www.habselstree.org.uk/girls/admissions/admissions-process/',
     note:'Shares its QUEST first-round assessment with Habs Boys.',
     milestones:[
       {label:'Registration & scholarship deadline', date:'2026-11-06', actionable:true}
@@ -139,7 +139,7 @@ const SCHOOLS = [
     category:'Independent',
     gender:'Boys',
     region:'Northwood',
-    website:'https://www.mtsn.org.uk/admissions',
+    website:'https://www.mtsn.org.uk/admissions/joining-at-11/',
     note:'Bursary and scholarship applications close earlier than general registration \u2014 easy to miss if you\u2019re only tracking the main deadline.',
     milestones:[
       {label:'Bursary & scholarship application deadline', date:'2026-09-30', actionable:true},
