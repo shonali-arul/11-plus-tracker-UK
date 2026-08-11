@@ -84,7 +84,7 @@ const SCHOOLS = [
     category:'State Grammar (Girls)',
     gender:'Girls',
     region:'Hampstead Garden Suburb, Barnet',
-    website:'https://www.hbschool.org.uk/admissions/year-7/',
+    website:'https://www.hbschool.org.uk/admissions/',
     note:'Two-round entrance test; only the top 300 from Round 1 are invited to Round 2. Registration for this cycle closed 1 July 2026 \u2014 the CAF deadline below is the next live action.',
     milestones:[
       {label:'Entrance test registration', date:'2026-07-01', actionable:true},
